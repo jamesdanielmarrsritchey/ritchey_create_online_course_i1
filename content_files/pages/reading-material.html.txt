@@ -1,0 +1,6 @@
+Description: This contains content for the the file "/www/public/pages/reading-material.html".
+Content:
+<value>
+This is where the reading material goes.
+<div class='course_links_outter'><a class='course_links' href="./evaluation.html">Start Evaluation</a></div>
+</value>

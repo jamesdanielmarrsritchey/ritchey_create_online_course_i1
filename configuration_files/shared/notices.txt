@@ -1,0 +1,5 @@
+Description: Contains notices for prospective students to read before taking the course.
+Content:
+<value>
+This course has not been written by a relevant professional. You are strongly encouraged to verify the accuracy of all material as part of your learning process.
+</value>

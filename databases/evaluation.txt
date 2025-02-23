@@ -1,0 +1,12 @@
+Question: A dog is an ____?
+Choices: animal | onimel
+Answer: animal
+Question: A cat is a ____?
+Choices: common pet | wilm bast
+Answer: common pet
+Question: A lemur is a ____?
+Choices: tree dweller | chupmink like creature
+Answer: tree dweller
+Question: A taco is a ____?
+Choices: food | sundwick
+Answer: food

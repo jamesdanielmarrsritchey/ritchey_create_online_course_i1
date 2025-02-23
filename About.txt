@@ -1,0 +1,34 @@
+# About
+
+NAME: Ritchey Create Online Course
+IMPLEMENTATION: 1
+VERSION: 1
+LONG IDENTIFIER: Ritchey Create Online Course i1 v1
+SHORT IDENTIFIER: RCOCi1v1
+AUTHOR: James Daniel Marrs Ritchey
+
+## Overview
+
+Ritchey Create Online Course is a static website generator, which generates a website sub-portion for providing simple online courses.
+
+## Licensing
+
+This project is hereby licensed under the Ritchey Permissive License v19.
+
+## History
+
+Releases:
+- Project started December, 2024.
+- Version 1 completed February 23, 2025.
+
+Highlighted Changes:
+- 
+
+## Notes
+
+Technical:
+- Certificate IDs are merely the date and student name, as such there is potential for different students to end up with the same ID.
+- The application is written in PHP, but the produced website is client-side only code. This makes the website very flexible in terms of where it can be hosted, but also easier for students to generate fake certificates.
+
+Other:
+- 
